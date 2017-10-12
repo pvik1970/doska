@@ -1,0 +1,22 @@
+{
+  "name": "doska",
+  "version": "1.0.0",
+  "description": "rttfh dxgdsgd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvik1970/doska.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvik1970/doska/issues"
+  },
+  "homepage": "https://github.com/pvik1970/doska#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta"
+  }
+}

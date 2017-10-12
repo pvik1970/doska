@@ -15,9 +15,10 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from doska.views import home
+from page.views import *
 
 urlpatterns = [
-    url(r'^$', home, name='home'),
+    url(r'^$', index, name='home'),
+    url(r'^about$', about),
     url(r'^admin/', admin.site.urls)
 ]
